@@ -1,0 +1,14 @@
+# Gradle
+.gradle/
+build/
+out/
+bin/
+*.log
+
+# IntelliJ / VSCode
+.idea/
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
